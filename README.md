@@ -1,1 +1,1 @@
-_bold__Particle.js effect
+_Particle.js effect
