@@ -17,7 +17,7 @@ Create canvas in html
   <canvas id="canvas">Your Browser does not support HTML5.</canvas>
 </div>
 ```
-and js
+and link js
 ```
 <script src = "js/particles.js"></script>
 ```
