@@ -10,11 +10,16 @@
 
 #### How to use
 Link css in head ```<link rel="stylesheet" type="text/css" href="css/particle.css">```
+
 Create canvas in html 
 ```
 <div id="canvasContainer">
   <canvas id="canvas">Your Browser does not support HTML5.</canvas>
 </div>
+```
+and js
+```
+<script src = "js/particles.js"></script>
 ```
 #### Settings in js
 
