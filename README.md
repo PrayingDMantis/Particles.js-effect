@@ -1,4 +1,4 @@
-** _Particle.js effect **
+**_Particle.js effect**
 
 
 #Demo on 4k resolution
